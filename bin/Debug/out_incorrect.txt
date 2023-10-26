@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet>
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Aero Air Cessna 525B Citation Jet CJ3 - N149WW" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Air Pink Cessna 525B Citation Jet CJ3 - YU-BTN" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Arcas Aviation Cessna 525B Citation Jet CJ3 - D-COWB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Choice Aviation Cessna 525B Citation Jet CJ3 - N279D" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Latitude 33 Aviation Cessna 525B Citation Jet CJ3 - N34SJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Latitude 33 Aviation Cessna 525B Citation Jet CJ3 - N7SG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Mayo Aviation Cessna 525B Citation Jet CJ3 - N925EM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_NASCAR Private Jets Cessna 525B Citation Jet CJ3 - N9CE Chase Elliott" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Nicholas Air Cessna 525B Citation Jet CJ3 - N357N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_KCAC Aviation Cessna 525B Citation Jet CJ3+ - N426NS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Nicholas Air Cessna 525B Citation Jet CJ3+ - N341N" />
+    <ModelMatchRule CallsignPrefix="ICEC" TypeCode="B752" ModelName="AIGAIM_Icelandair Cargo Boeing 757-200F" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="J328" ModelName="AIGAIM_Pratt & Whitney Canada Dornier 328-300 Jet - C-GCPW" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_U-Haul Pilatus PC-12 - N230UH" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Metro Aviation Pilatus PC-12 - N325MW" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Metro Aviation Pilatus PC-12 - N399AM" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Metro Aviation Pilatus PC-12 - N515TW" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Metro Aviation Pilatus PC-12 - N852AL" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Seminole Tribe of Florida Pilatus PC-12 - N957ST" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_U-Haul Pilatus PC-12 - N605TQ" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Aero Air Pilatus PC-12NG - N212AL" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_AH Aviation Pilatus PC-12 - OY-AWH" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Air Corviglia Pilatus PC-12 - HB-FVD" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="PC12" ModelName="AIGAIM_Metro Aviation Pilatus PC-12NG - N420UH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Becton Dickinson Dassault Falcon 7X - N347BD" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Canadian Utilities Dassault Falcon 7X - C-GCUL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Cigna Dassault Falcon 7X - N173CN" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Crane Company Dassault Falcon 7X - N300CR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Galaxy Airways Dassault Falcon 7X - C-GLXC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_International Paper Dassault Falcon 7X - N887X" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Liberty Global Dassault Falcon 7X - N250LG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Liberty Media Dassault Falcon 7X - N770LM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Stephens Inc Dassault Falcon 7X - N1838S" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_TTI North America Dassault Falcon 7X - N8HP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Warner Bros Discovery Dassault Falcon 7X - N685DC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Warner Bros Discovery Dassault Falcon 7X - N775E" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Energy Transfer Partners Dassault Falcon 8X - N1S" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Clayton Homes Embraer Phenom 300 - N1CH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Clayton Homes Embraer Phenom 300 - N1KA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Clayton Homes Embraer Phenom 300 - N7CH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Dimor Aero Embraer Phenom 300 - D-CDMO" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Dot Foods Embraer Phenom 300 - N960RT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Elite Jets Embraer Phenom 300 - N4B" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Elite Jets Embraer Phenom 300 - N5A" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Elite Jets Embraer Phenom 300 - N6A" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Elite Jets Embraer Phenom 300 - N7DR" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Family Express Embraer Phenom 300 - N80FE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_First Horizon Bank Embraer Phenom 300 - N1887B" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N300GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N302GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N304GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N306GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N308GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N310GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N312GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N314GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N316GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_GrandView Aviation Embraer Phenom 300 - N320GV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Manhag AG Embraer Phenom 300 - HB-VYM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Masco Embraer Phenom 300 - N175MC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Maxair Embraer Phenom 300 - N98D" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Nicholas Air Embraer Phenom 300 - N317N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Nicholas Air Embraer Phenom 300 - N377N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Nicholas Air Embraer Phenom 300 - N413N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Nicholas Air Embraer Phenom 300 - N423N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Nicholas Air Embraer Phenom 300 - N516N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Nicholas Air Embraer Phenom 300 - N807N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Nicholas Air Embraer Phenom 300 - N839N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Promega Corporation Embraer Phenom 300 - N978PC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Spree Flug Luftfahrt Embraer Phenom 300 - D-CLIF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_University of Florida Embraer Phenom 300 - N100FG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="E55P" ModelName="AIGAIM_Vermeer Embraer Phenom 300 - N48VM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_5-Hour Energy Bombardier Global 5000 - N2707" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Carvana Bombardier Global 5000 - N50VC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Clearwater Fine Foods Bombardier Global 5000 - C-FFIJ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Lennar Bombardier Global 5000 - N692L" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Lennar Bombardier Global 5000 - N954L" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Mylan Pharmaceuticals Bombardier Global 5000 - N902MY" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_PepsiCo Bombardier Global 5000 - N815PA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Ruffin Companies Bombardier Global 5000 - N443PR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_The Whitewind Company Bombardier Global 5000 - N717MK" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Aurora Jet Partners Bombardier Global 6000 - C-FDIL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Aurora Jet Partners Bombardier Global 6000 - C-FOEG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Ball Corporation Bombardier Global 6000 - N400BC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Barnes & Noble Bombardier Global 6000 - N122BN" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Bollore Bombardier Global 6000 - F-GBOL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Citigroup Bombardier Global 6000 - N1812C" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Citigroup Bombardier Global 6000 - N805WM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_DraftKings Bombardier Global 6000 - N34681" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="AIGAIM_FedEx Bombardier Global 6000 - N1FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="AIGAIM_FedEx Bombardier Global 6000 - N2FE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_London Air Services Bombardier Global 6000 - C-GCHG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_McDonald's Bombardier Global 6000 - N1955M" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Raytheon Technologies Bombardier Global 6000 - N504RT" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Saab Bombardier Global 6000 - SE-RMT" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_The Whitewind Company Bombardier Global 6000 - N711LS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_The Whitewind Company Bombardier Global 6000 - N878SC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global 6500 - N606TD" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Carvana Bombardier Global 6500 - N650CV" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="AIGAIM_FedEx Bombardier Global 6500 - N6FE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_TTI North America Bombardier Global 6500 - N82HP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global Express - N319GG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Amy's Kitchen Bombardier Global Express - N988GG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Apex Oil Bombardier Global Express - N212AP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Citigroup Bombardier Global Express - N2012C" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_The Whitewind Company Bombardier Global Express - N838SC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global Express XRS - N118MJ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global Express XRS - N265HT" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global Express XRS - N3262T" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global Express XRS - N624BR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global Express XRS - N724JJ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_ACI Jet Bombardier Global Express XRS - N726BF" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Aramark Bombardier Global Express XRS - N11A" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Delaware North Bombardier Global Express XRS - N137BB" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Essar Group Bombardier Global Express XRS - N28ZD" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Oracle Bombardier Global Express XRS - N15GX" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Post Holdings Bombardier Global Express XRS - N907PH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_RP Aircraft Management GmbH Bombardier Global Express XRS - OE-IRP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Skystream Jet Bombardier Global Express XRS - N82EM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Tyson Foods Bombardier Global Express XRS - N316GX" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="B744" ModelName="AIGAIM_General Electric Propulsion Test Platform Boeing 747-400" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Abilene Aero Beechcraft King Air 200 - N363D" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Berkshire Hathaway Energy Beechcraft King Air 200 - N95UT" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Better Living Aviation Beechcraft King Air 200 - N6182A" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Mayo Aviation Beechcraft King Air 200 - N211LG" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Mayo Aviation Beechcraft King Air 200 - N217LG" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Mayo Aviation Beechcraft King Air 200 - N74AW" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Mayo Aviation Beechcraft King Air 200 - N5ST" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Metro Aviation Beechcraft King Air 200 - N75LV" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Pinkerton AG Beechcraft King Air 200 - HB-GPH" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Polaris Beechcraft King Air 200 - N200PL" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Polaris Beechcraft King Air 200 - N442PL" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Southwest Aircraft Charter Beechcraft King Air 200 - N402CT" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_University of Arkansas Beechcraft King Air 200 - N89UA" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Abilene Aero Beechcraft King Air 250 - N59MB" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="BE20" ModelName="AIGAIM_Berkshire Hathaway Energy Beechcraft King Air 250 - N97UT" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="" ModelName="AIGAIM_Abilene Aero Beechcraft King Air C90A - N126MM" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="" ModelName="AIGAIM_Better Living Aviation Beechcraft King Air C90 - N501MS" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="" ModelName="AIGAIM_Turbo Air Beechcraft King Air E90 - N900AC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Atlantic Air Charter Beechcraft Beechjet 400A - N127EJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Atlantic Air Charter Beechcraft Beechjet 400A - N940VA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Don Davis Aviation Beechjet 400A - N101CC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_FBL Financial Group Beechcraft Beechjet 400A - N402FB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Golden State Jet Beechcraft Beechjet 400A - N510TL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Lyddon Aero Center Beechcraft Beechjet 400A - N203DF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Lyddon Aero Center Beechcraft Beechjet 400A - N228SB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Martinair Beechcraft Beechjet 400A - N141DR" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Martinair Beechcraft Beechjet 400A - N476BJ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="AIGAIM_Aer Arann Islands Britten-Norman BN-2 Islander - Short Nose" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="AIGAIM_Aer Arann Islands Britten-Norman BN-2 Islander - Long Nose" />
+    <ModelMatchRule CallsignPrefix="GA2T" TypeCode="C208" ModelName="AIGAIM_True Aviation Cessna 208B Grand Caravan - EX N815KD" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="C208" ModelName="AIGAIM_Azul Cargo Cessna 208B Super Cargomaster - opb Azul Conecta" />
+    <ModelMatchRule CallsignPrefix="USCG" TypeCode="" ModelName="AIGAIM_US Coast Guard Air Station Washington Gulfstream C-37A" />
+    <ModelMatchRule CallsignPrefix="USCG" TypeCode="" ModelName="AIGAIM_US Coast Guard Air Station Washington Gulfstream C-37B" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Abbott Laboratories Gulfstream G450 - N800AL" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Avjet Gulfstream G450 - N236KR" />
+    <ModelMatchRule CallsignPrefix="GOVS" TypeCode="" ModelName="AIGAIM_Chilean Air Force Gulfstream G450 - 911" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Circle K Gulfstream G450 - N456SW" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_CSX Gulfstream G450 - N75CX" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Fiserv Gulfstream G450 - N225FD" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Goodyear Tire & Rubber Gulfstream G450 N20G" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Leprino Foods Gulfstream G450 - N37JL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Major League Baseball Gulfstream G450 - N25GM" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Mayo Aviation Gulfstream G450 - N451PW" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Niagara Bottling Gulfstream G450 - N1963N" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Travelers Gulfstream G450 - N702TR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Verizon Gulfstream G450 - N805VZ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Verizon Gulfstream G450 - N917VZ" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Worthington Industries Gulfstream G450 - N523JM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_3M Gulfstream G550 - N73M" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_3M Gulfstream G550 - N83M" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Abbott Laboratories Gulfstream G550 - N550AL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Abbott Laboratories Gulfstream G550 - N900AL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Alsco Gulfstream G550 - N550KR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Amway Gulfstream G550 - N252DV" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Amway Gulfstream G550 - N253DV" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Amway Gulfstream G550 - N316VA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Amway Gulfstream G550 - N523AC" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="GLF5" ModelName="AIGAIM_Amway Gulfstream G550 - N524AC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_AT&T Gulfstream G550 - N73RP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_AT&T Gulfstream G550 - N75RP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_AT&T Gulfstream G550 - N76RP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_AT&T Gulfstream G550 - N79RP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_BAE Systems Gulfstream G550 - N772BE G550-HTAI-Marco" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Baxter International Gulfstream G550 - N1BX" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Caesars Entertainment Gulfstream G550 - N898CE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Calvin Klein Gulfstream G550 - N550CK" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Chevron Gulfstream G550 - N5092" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Chipotle Gulfstream G550 - N793MG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Coca-Cola Gulfstream G550 - N386RW" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Coca-Cola Gulfstream G550 - N486RW" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Coca-Cola Gulfstream G550 - N586RW" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_ConocoPhillips Gulfstream G550 - N795CP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_ConocoPhillips Gulfstream G550 - N797CP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Constellation Brands Gulfstream G550 - N559G" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Constellation Brands Gulfstream G550 - N870CM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Crown Holdings Gulfstream G550 - N892CH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Darling Ingredients Gulfstream G550 - N890DA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Edison Chouest Offshore Gulfstream G550 - N728EC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Elite Jets Gulfstream G550 - N505D" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_ExxonMobil Gulfstream G550 - N200A" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_ExxonMobil Gulfstream G550 - N300A" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Fiserv Gulfstream G550 - N451GV" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Fox Corporation Gulfstream G550 - N899NC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Google Gulfstream G550 - N10XG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Google Gulfstream G550 - N785QS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Google Gulfstream G550 - N813QS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Google Gulfstream G550 - N904G" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Halliburton Gulfstream G550 - N5569" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Halliburton Gulfstream G550 - N5585" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Hewlett Packard Enterprise Gulfstream G550 - N441GC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Hewlett Packard Enterprise Gulfstream G550 - N456GA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Honeywell Gulfstream G550 - N599H" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Honeywell Gulfstream G550 - N933H" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Huntsman Corporation Gulfstream G550 - N620JH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_IBM Gulfstream G550 - N780E" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_INEOS Gulfstream G550 - M-USIC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Jackson National Life Insurance Gulfstream G550 - N665JN" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_John Deere Gulfstream G550 - N550JD" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_John Deere Gulfstream G550 - N600JD" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Johnson & Johnson Gulfstream G550 - N500J" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Johnson & Johnson Gulfstream G550 - N600J" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Las Vegas Sands Gulfstream G550 - N336LS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Las Vegas Sands Gulfstream G550 - N337LS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Las Vegas Sands Gulfstream G550 - N339LS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Lear Corporation Gulfstream G550 - N119LE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Lockheed Martin Gulfstream G550 - N344RS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_MacAndrews & Forbes Gulfstream G550 - N636MF" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_McDonald's Gulfstream G550 - N1967M" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Morgan Stanley Gulfstream G550 - N128GV" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Netflix Gulfstream G550 - N533GV" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Netflix Gulfstream G550 - N535GV" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_New Balance Gulfstream G550 - N990NB" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Niagara Bottling Gulfstream G550 - N550WW" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Occidental Petroleum Gulfstream G550 - N223A" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Occidental Petroleum Gulfstream G550 - N257A" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Orange County Sunbird Aviation Gulfstream G550 - N237GA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Panda Restaurant Group Gulfstream G550 - N888PX" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Penske Corporation Gulfstream G550 - N1RP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Penske Corporation Gulfstream G550 - N6JP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Phillips 66 Gulfstream G550 - N662P" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Phillips 66 Gulfstream G550 - N667P" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Phillips 66 Gulfstream G550 - N668P" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Prime Jet Gulfstream G550 - N279SH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Regeneron Pharmaceuticals Gulfstream G550 - N974SZ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Saab Gulfstream G550 - SE-RKL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Seminole Tribe of Florida Gulfstream G550 - N126HR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Starbucks Gulfstream G550 - N721L" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Starbucks Gulfstream G550 - N721V" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Swagelok Gulfstream G550 - N589K" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Target Gulfstream G550 - N383T" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Thermo Fisher Scientific Gulfstream G550 - N688CB" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Toyota Gulfstream G550 - N803TM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Toyota Gulfstream G550 - N875TM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Toyota Gulfstream G550 - N887TM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Travelers Gulfstream G550 - N407TR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Travelers Gulfstream G550 - N447TR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Valero Gulfstream G550 - N524VE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Valero Gulfstream G550 - N550VE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Valero Gulfstream G550 - N755VE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Verizon Gulfstream G550 - N74VZ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Verizon Gulfstream G550 - N76VZ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Whirlpool Gulfstream G550 - N1905W" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Whirlpool Gulfstream G550 - N1911W" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_White Cloud Charter Gulfstream G550 - N999LR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Zeeco Gulfstream G550 - N588DZ" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Zimmer Biomet Gulfstream G550 - N550ZB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Aero Air Gulfstream III - N939KM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_ACI Jet Gulfstream IVSP - N74GG" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Coleman Jet Gulfstream IV - N2129" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Dumont Aviation Gulfstream IVSP - N30DJ" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Dumont Aviation Gulfstream IVSP - N302SB" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Jackson National Life Insurance Gulfstream IVSP - N664JN" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Las Vegas Sands Gulfstream IVSP - N572MS" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Las Vegas Sands Gulfstream IVSP - N972MS" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Las Vegas Sands Gulfstream IVSP - N992MS" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Pentastar Aviation Gulfstream IVSP - N473CW" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_PepsiCo Gulfstream IVSP - N500PC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_PepsiCo Gulfstream IVSP - N502PC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Seminole Tribe of Florida Gulfstream IVSP - N857ST" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF5" ModelName="AIGAIM_Skystream Jet Gulfstream IVSP - N86MW" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Starjet Gulfstream IVSP - N702GH" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="GLF5" ModelName="AIGAIM_Starjet Gulfstream IVSP - N958BX" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Starjet Gulfstream IV - N729TY" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Starjet Gulfstream IV - N794MH" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Starjet Gulfstream IV - N924MB" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Apple Gulfstream V - N51VE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Cargill Gulfstream V - N253CM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Global Aviation Gulfstream V - N934HE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Harbour Group Industries Gulfstream V - N100HG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Hendrick Motorsports Gulfstream V - N500RH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Las Vegas Sands Gulfstream V - N383LS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Prime Jet Gulfstream V - N808JG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="" ModelName="AIGAIM_Waffle House Gulfstream V - N505GF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Don Davis Aviation Hawker 400XP - N330R" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Don Davis Aviation Hawker 400XP - N835TB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Lyddon Aero Center Hawker 400XP - N390SB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="BE40" ModelName="AIGAIM_Turnkey Jet Hawker 400XP - N317PC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Starjet Hawker 700A - N109BG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Carver Aero Hawker 750 - N750VM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Aviation Services Elite Hawker 800A - N337WR" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Starjet Hawker 800 - N850SX" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_BellAir Hawker 800XP - N118DL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Catalina Aerospace Hawker 800XP - N15RK" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Cracker Barrel Hawker 800XP - N68CB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_East Coast Jets Hawker 800XP - N800MA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Harsco Hawker 800XP - N990HC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_International Group Hawker 800XP - N585VC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Jet Logistics Hawker 800XP - N806GJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Mayo Aviation Hawker 800XP - N694ES" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Raymond Corporation Hawker 800XP - N793RC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Unum Group Hawker 800XP - N73UP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Unum Group Hawker 800XP - N95UP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Voyager Jet Center Hawker 800XP - N800CA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Washington Companies Hawker 800XP - N174WC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_5-Hour Energy Hawker 850XP - N776RS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Jackson National Life Insurance Hawker 850XP - N662JN" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Aurora Jet Partners Hawker 900XP - C-GVMP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Community Health Systems Hawker 900XP - N85PK" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Community Health Systems Hawker 900XP - N87PK" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Hallmark Cards Hawker 900XP - N1910H" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_JBS USA Hawker 900XP - N916JB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_JBS USA Hawker 900XP - N963JB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Pentastar Aviation Hawker 900XP - N349JF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Select Medical Hawker 900XP - N16SM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="H25B" ModelName="AIGAIM_Voyager Jet Center Hawker 900XP - N907PJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Aero Air Bombardier Learjet 31A - N163AL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Aero Air Bombardier Learjet 31A - N164AL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Aero Air Bombardier Learjet 31A - N165AL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Catalina Aerospace Bombardier Learjet 31A - N127VL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_CommScope Bombardier Learjet 31A - N962FM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Duncan Aviation Bombardier Learjet 31A - N260LF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ35" ModelName="AIGAIM_Aero Air Bombardier Learjet 35A - N93LE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ35" ModelName="AIGAIM_Aviation Services Elite Bombardier Learjet 35 - N354LQ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ35" ModelName="AIGAIM_East Coast Jets Bombardier Learjet 35A - N711EC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ35" ModelName="AIGAIM_East Coast Jets Bombardier Learjet 35A - N721EC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ35" ModelName="AIGAIM_General Atomics Bombardier Learjet 35A - N200TW" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ35" ModelName="AIGAIM_Saab Bombardier Learjet 35A - SE-RMX" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="CL60" ModelName="AIGAIM_Joe Gibbs Racing Bombardier Challenger 601-3A - N400DH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Martinair Bombardier Challenger 601-1A - N824DH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="CL60" ModelName="AIGAIM_Joe Gibbs Racing Bombardier Challenger 601-3R - N518JG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Schubach Aviation Bombardier Challenger 601-3R - N825SG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Swagelok Bombardier Challenger 601-3A - N289K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_ACI Jet Bombardier Challenger 604 - N438E" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Alliance Aviation Bombardier Challenger 604 - N604RR" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_A-OK Jets Bombardier Challenger 604 - N604WH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Integrated Flight Resources Bombardier Challenger 604 - N872BC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Lennar Bombardier Challenger 604 - N610L" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_PepsiCo Bombardier Challenger 604 - N501PC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_PepsiCo Bombardier Challenger 604 - N503PC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_PepsiCo Bombardier Challenger 604 - N508PC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Pinnacle Aviation Bombardier Challenger 604 - N698RS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Trinity Industries Bombardier Challenger 604 - N1101A" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Turner Enterprises Bombardier Challenger 604 - N17TE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Aurora Jet Partners Bombardier Challenger 605 - C-FXWT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Aurora Jet Partners Bombardier Challenger 605 - C-GBKB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Bosch Bombardier Challenger 605 - HB-JSG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Canadian Pacific Bombardier Challenger 605 - C-GKCP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Florida Wings Bombardier Challenger 605 - N99KW" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_FMC Corporation Bombardier Challenger 605 - N1088" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_JetSelect Aviation Bombardier Challenger 605 - N213GS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_JetSelect Aviation Bombardier Challenger 605 - N3FE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Latitude 33 Aviation Bombardier Challenger 605 - N605CE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_London Air Services Bombardier Challenger 605 - C-FHYL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_McCormick & Co Bombardier Challenger 605 - N232MC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Mylan Pharmaceuticals Bombardier Challenger 605 - N624MY" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Nationwide Insurance Bombardier Challenger 605 - N75NP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Nationwide Insurance Bombardier Challenger 605 - N86NP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Nationwide Insurance Bombardier Challenger 605 - N97NP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Nissan North America Bombardier Challenger 605 - N155AN" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Raytheon Technologies Bombardier Challenger 605 - N36RT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Rush Enterprises Bombardier Challenger 605 - N39RE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Shaw Communications Bombardier Challenger 605 - C-FSCI" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Shaw Communications Bombardier Challenger 605 - C-FSJY" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_SPX Corporation Bombardier Challenger 605 - N65PX" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_UniFirst Bombardier Challenger 605 - N683UF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL60" ModelName="AIGAIM_Wegmans Bombardier Challenger 605 - N1500" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_Bosch Bombardier Challenger 650 - HB-JSF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_New Era Bombardier Challenger 650 - N5950E" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_Nordstrom Bombardier Challenger 650 - N894N" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL65" ModelName="AIGAIM_Prime Inc Bombardier Challenger 650 - N650VL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_Raytheon Technologies Bombardier Challenger 650 - N505RT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_Raytheon Technologies Bombardier Challenger 650 - N506RT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_State Farm Bombardier Challenger 650 - N22SF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_State Farm Bombardier Challenger 650 - N43SF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_State Farm Bombardier Challenger 650 - N44SF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_State Farm Bombardier Challenger 650 - N76SF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL65" ModelName="AIGAIM_Ventura Air Services Bombardier Challenger 650 - N506RT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Hytrol Conveyor Bombardier Learjet 40XR - N411HC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_University of Arkansas Bombardier Learjet 40XR - N41UA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Walmart Bombardier Learjet 40XR - N403LS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Walmart Bombardier Learjet 40XR - N990WA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Walmart Bombardier Learjet 40 - N506KS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Cargill Bombardier Learjet 45XR - N245CM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_CarMax Bombardier Learjet 45XR - N45KX" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Executive Aircraft Charter Services Bombardier Learjet 45 - N451BW" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Executive Aircraft Charter Services Bombardier Learjet 45 - N599TA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_GEICO Bombardier Learjet 45XR - N425M" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Jet Logistics Bombardier Learjet 45XR - N426SA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Jet Logistics Bombardier Learjet 45XR - N429SA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Mayo Aviation Bombardier Learjet 45 - N419LG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_McCain Foods Bombardier Learjet 45 - C-FRYS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Metro Aviation Bombardier Learjet 45XR - N429SA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_NASCAR Private Jets Bombardier Learjet 45 - N229BK Brad Keselowski" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Owens Corning Bombardier Learjet 45XR - N2426" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_OzAir Bombardier Learjet 45 - N197EC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Pella Corporation Bombardier Learjet 45XR - N1925P" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Pella Corporation Bombardier Learjet 45 - N12VU" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Pilot Corporation Bombardier Learjet 45XR - N681P" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Pilot Corporation Bombardier Learjet 45XR - N81FJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Ryanair Operations Bombardier Learjet 45 - M-ABEU" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Ryanair Operations Bombardier Learjet 45 - M-ABGV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Ryanair Operations Bombardier Learjet 45 - M-ABJA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Southwest Aircraft Charter Bombardier Learjet 45XR - N247MX" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Southwest Aircraft Charter Bombardier Learjet 45 - N395BC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Starlink Aviation Bombardier Learjet 45 - C-GMCP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Starlink Aviation Bombardier Learjet 45 - C-GMSY" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Trego-Dugan Aviation Bombardier Learjet 45 - N317GS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Trego-Dugan Aviation Bombardier Learjet 45 - N45EJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Bombardier Learjet 45XR - N45GH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Bombardier Learjet 45XR - N45HK" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Bombardier Learjet 45XR - N483SC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Bombardier Learjet 45XR - N986BL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Bombardier Learjet 45 - N313BH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Bombardier Learjet 45 - N45VA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Bombardier Learjet 45 - N455DG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ45" ModelName="AIGAIM_Walmart Canada Bombardier Learjet 45XR - C-GUSM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ60" ModelName="AIGAIM_Bridgestone Americas Bombardier Learjet 60XR - N588BF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ60" ModelName="AIGAIM_McLane Bombardier Learjet 60 - N440MC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ60" ModelName="AIGAIM_McLane Bombardier Learjet 60 - N461MC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Helmerich & Payne Bombardier Learjet 75 - N2HP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Koch Industries Bombardier Learjet 75 - N730K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Koch Industries Bombardier Learjet 75 - N734K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Koch Industries Bombardier Learjet 75 - N736K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Koch Industries Bombardier Learjet 75 - N738K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Koch Industries Bombardier Learjet 75 - N740K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_London Air Services Bombardier Learjet 75 - C-FBCL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_London Air Services Bombardier Learjet 75 - C-FSDL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Metro Aviation Bombardier Learjet 75 - N75UM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_QuikTrip Bombardier Learjet 75 - N24QT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_QuikTrip Bombardier Learjet 75 - N26QT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_QuikTrip Bombardier Learjet 75 - N28QT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_RJ Corman Bombardier Learjet 75 - N977RJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Southern Company Bombardier Learjet 75 - N16PC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="LJ75" ModelName="AIGAIM_Southern Company Bombardier Learjet 75 - N40PC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Jet Air Cessna 560XL Citation Excel - N97VS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Virginia Tech University Cessna 560XL Citation Excel - N51VT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Waupaca Foundry Cessna 560XL Citation Excel - N53WF" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Wellmark Cessna 560XL Citation Excel - N502BC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Dayton Freight Cessna 560XL Citation XLS - N560TD" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Fisher Investments Cessna 560XL Citation XLS - N411EC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Milliken & Company Cessna 560XL Citation XLS - N577PS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Milliken & Company Cessna 560XL Citation XLS - N808MN" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Solutions Air Cessna 560XL Citation XLS - N24PH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_University of Tennessee Cessna 560XL Citation XLS - N865UT" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Advanced Drainage Systems Cessna 560XL Citation XLS+ - N876AD" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Advanced Drainage Systems Cessna 560XL Citation XLS+ - N900AD" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Bell Bank Cessna 560XL Citation XLS+ - N521BB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Bell Bank Cessna 560XL Citation XLS+ - N524BB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C525" ModelName="AIGAIM_Bell Bank Cessna 560XL Citation XLS+ - N525BB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Hy-Vee Cessna 560XL Citation XLS+ - N564HV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Hy-Vee Cessna 560XL Citation XLS+ - N565HV" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Jet Logistics Cessna 560XL Citation XLS+ - N275MB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_PVS Chemicals Cessna 560XL Citation XLS+ - N80AE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Sandals Resorts Cessna 560XL Citation XLS+ - N660AS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_University of Virginia Cessna 560XL Citation XLS+ - N560VA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Washington Trust Bank Cessna 560XL Citation XLS+ - N625XL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_Weis Markets Cessna 560XL Citation XLS+ - N613WM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="C560" ModelName="AIGAIM_WinCo Foods Cessna 560XL Citation XLS+ - N634BE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_5-Hour Energy Bombardier Challenger 300 - N406BJ" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Alliant Energy Bombardier Challenger 300 - N796AC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_A-OK Jets Bombardier Challenger 300 - N716WW" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Aurora Jet Partners Bombardier Challenger 300 - C-FAJC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_C&S Wholesale Grocers Bombardier Challenger 300 - N3337J" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Cargill Bombardier Challenger 300 - N7000C" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Cargill Bombardier Challenger 300 - N7100C" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_CommScope Bombardier Challenger 300 - N876CS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Duke Energy Bombardier Challenger 300 - N26DE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Duke Energy Bombardier Challenger 300 - N38BK" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL30" ModelName="AIGAIM_Eaton Corporation Bombardier Challenger 300 - N738E" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL30" ModelName="AIGAIM_Eaton Corporation Bombardier Challenger 300 - N739E" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL30" ModelName="AIGAIM_Eaton Corporation Bombardier Challenger 300 - N742E" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL30" ModelName="AIGAIM_Eaton Corporation Bombardier Challenger 300 - N746E" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Ecolab Bombardier Challenger 300 - N370EL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Executive Aviation Bombardier Challenger 300 - N868LJ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N21FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N24FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N26FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N28FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N35FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N37FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N39FE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="CL30" ModelName="AIGAIM_FedEx Bombardier Challenger 300 - N43FE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Helmerich & Payne Bombardier Challenger 300 - N1HP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_HF Sinclair Bombardier Challenger 300 - N31CA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Honeywell Bombardier Challenger 300 - N955H" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Koch Industries Bombardier Challenger 300 - N265K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Koch Industries Bombardier Challenger 300 - N302K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Kroger Bombardier Challenger 300 - N300KC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Kroger Bombardier Challenger 300 - N302KC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Kroger Bombardier Challenger 300 - N304KC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Kum & Go Bombardier Challenger 300 - N59KG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Latitude 33 Aviation Bombardier Challenger 300 - N423JG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Nestle Purina PetCare Bombardier Challenger 300 - N606RP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Nestle Purina PetCare Bombardier Challenger 300 - N607RP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Nestle Purina PetCare Bombardier Challenger 300 - N608RP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Nicholas Air Bombardier Challenger 300 - N622N" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Owens Corning Bombardier Challenger 300 - N2425" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Owens Corning Bombardier Challenger 300 - N2428" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Peabody Energy Bombardier Challenger 300 - N301PE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Pinnacle Aviation Bombardier Challenger 300 - N370EL" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Progress Rail Services Bombardier Challenger 300 - N81CR" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Roark Capital Group Bombardier Challenger 300 - N773RC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_RP Aircraft Management GmbH Bombardier Challenger 300 - OE-HCA" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_SAP Bombardier Challenger 300 - D-BADO" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_SAP Bombardier Challenger 300 - D-BANN" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_SAP America Bombardier Challenger 300 - N3975A" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Sobeys Bombardier Challenger 300 - C-FSXR" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Sobeys Bombardier Challenger 300 - C-GRCY" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Suncor Energy Bombardier Challenger 300 - C-GSUN" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Timken Bombardier Challenger 300 - N78TC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Turner Enterprises Bombardier Challenger 300 - N325TG" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Turnkey Jet Bombardier Challenger 300 - N311GS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Vivint Bombardier Challenger 300 - N313V" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Washington Companies Bombardier Challenger 300 - N160WC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Washington Companies Bombardier Challenger 300 - N166WC" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL30" ModelName="AIGAIM_Ziegler Bombardier Challenger 300 - N74ZC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Aurora Jet Partners Bombardier Challenger 350 - C-GDIL" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Ball Corporation Bombardier Challenger 350 - N300BC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Blue Ocean Enterprises Bombardier Challenger 350 - N659NR" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Blue Ocean Enterprises Bombardier Challenger 350 - N958CR" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL35" ModelName="AIGAIM_CenterPoint Energy Bombardier Challenger 350 - N102CE" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL35" ModelName="AIGAIM_Cerner Bombardier Challenger 350 - N979CS" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL35" ModelName="AIGAIM_Cerner Bombardier Challenger 350 - N979KC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Clearwater Fine Foods Bombardier Challenger 350 - C-FFIP" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Coleman Jet Bombardier Challenger 350 - N333WC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Delaware North Bombardier Challenger 350 - N250DN" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Dr Pepper Snapple Group Bombardier Challenger 350 - N824DP" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Duke Energy Bombardier Challenger 350 - N575MW" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_General Atomics Bombardier Challenger 350 - N350XJ" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_General Atomics Bombardier Challenger 350 - N350XK" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL35" ModelName="AIGAIM_HF Sinclair Bombardier Challenger 350 - N10EH" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Hobby Lobby Bombardier Challenger 350 - N2HL" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_JetEx Bombardier Challenger 350 - N717EP" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL35" ModelName="AIGAIM_Koch Industries Bombardier Challenger 350 - N316K" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL35" ModelName="AIGAIM_Latitude 33 Aviation Bombardier Challenger 350 - N350HH" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="CL35" ModelName="AIGAIM_Latitude 33 Aviation Bombardier Challenger 350 - N369LL" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_La-Z-Boy Bombardier Challenger 350 - N168GC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Leprino Foods Bombardier Challenger 350 - N50LF" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Parker-Hannifin Bombardier Challenger 350 - N156PH" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Parker-Hannifin Bombardier Challenger 350 - N157PH" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Parker-Hannifin Bombardier Challenger 350 - N158PH" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Precision Castparts Bombardier Challenger 350 - N599HA" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Precision Castparts Bombardier Challenger 350 - N756HA" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Procter & Gamble Bombardier Challenger 350 - N6PG" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Procter & Gamble Bombardier Challenger 350 - N7PG" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Select Medical Bombardier Challenger 350 - N46SM" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Washington Companies Bombardier Challenger 350 - N170WC" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CL35" ModelName="AIGAIM_Washington Companies Bombardier Challenger 350 - N176WC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_3M Gulfstream G650ER - N93M" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_5-Hour Energy Gulfstream G650 - N1108M" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Abbott Laboratories Gulfstream G650ER - N100AL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Adobe Gulfstream G650ER - N82123" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_AMAC Aerospace Gulfstream G650 - VP-CER" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_American International Group Gulfstream G650ER - N870PS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Apple Gulfstream G650 - N2N" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Apple Gulfstream G650 - N650MS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Bank of America Gulfstream G650ER - N651BA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Bank of America Gulfstream G650ER - N652BA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Bank of New York Mellon Gulfstream G650ER - N784AH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Bausch Health Gulfstream G650ER - N657AT" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Dow Gulfstream G650ER - N40D" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_ExxonMobil Gulfstream G650ER - N100A" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Fox Corporation Gulfstream G650ER - N2702" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Fox Corporation Gulfstream G650ER - N898NC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Fox Corporation Gulfstream G650ER - N900NC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Fox Corporation Gulfstream G650ER - N988NC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Harbor Freight Tools Gulfstream G650ER - N750HF" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Hess Corporation Gulfstream G650ER - N1454H" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Honeywell Gulfstream G650 - N922H" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_IBM Gulfstream G650ER - N780TW" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_INEOS Gulfstream G650 - M-OVIE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - HB-JFP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - HB-JKP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - VP-CCW" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - VP-CKL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - VP-COR" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - VP-CVA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - VP-CYL" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - VP-CZA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Jet Aviation Business Jets Gulfstream G650 - VP-CZC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_JPMorgan Chase Gulfstream G650ER - N651CH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_JPMorgan Chase Gulfstream G650ER - N652CH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_JPMorgan Chase Gulfstream G650ER - N661CH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_JPMorgan Chase Gulfstream G650ER - N662CH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_LG Corporation Gulfstream G650ER - HL8299" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Lockheed Martin Gulfstream G650ER - N650VC" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_MGM Resorts Intl Gulfstream G650ER - N721MM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Nike Gulfstream G650ER - N1972N" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Nike Gulfstream G650 - N1KE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Nike Gulfstream G650 - N6453" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_OEM Gulfstream G650ER - XA-AND" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Oracle Gulfstream G650 - N817GS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Pfizer Gulfstream G650ER - N3CP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Pfizer Gulfstream G650ER - N4CP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Pfizer Gulfstream G650ER - N5CP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Pfizer Gulfstream G650ER - N6CP" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Polaris Aviation Solutions Gulfstream G650 - N761LE" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Precision Castparts Gulfstream G650 - N235BH" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Precision Castparts Gulfstream G650 - N673HA" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Procter & Gamble Gulfstream G650ER - N1PG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Procter & Gamble Gulfstream G650ER - N2PG" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_SK Group Gulfstream G650ER - HL8372" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Skybird Aviation Gulfstream G650 - N511DB" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="GLF6" ModelName="AIGAIM_Snap Inc Gulfstream G650ER - N2E" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_SpaceX Gulfstream G650ER - N628TS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Starbucks Gulfstream G650 - N211HS" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Toyota Gulfstream G650ER - N805TM" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="GLF6" ModelName="AIGAIM_Toyota Gulfstream G650ER - N811TM" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Visa Gulfstream G650ER - N358V" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Visa Gulfstream G650ER - N476V" />
+    <ModelMatchRule CallsignPrefix="GA4J" TypeCode="GLF6" ModelName="AIGAIM_Walmart Gulfstream G650ER - N762MS" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="AT45" ModelName="AIGAIM_Hevilift PNG ATR 42-500" />
+    <ModelMatchRule CallsignPrefix="CEYC" TypeCode="AT72" ModelName="AIGAIM_Air Century ATR 72-200F - Logic Paq (TEMP)" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Corning Bombardier Challenger 850 - N28CG" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="" ModelName="AIGAIM_Corning Bombardier Challenger 850 - N38CG" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CRJ2" ModelName="AIGAIM_Liuzhou Zhengling Group Bombardier CRJ-200 - VP-CWY" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CRJ2" ModelName="AIGAIM_MAC Air Group Bombardier CRJ-200 - N321EA" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CRJ2" ModelName="AIGAIM_Penske Corporation Bombardier CRJ-200 - N500PR" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CRJ2" ModelName="AIGAIM_Stewart-Haas Racing Bombardier CRJ-200 - ER N60GH" />
+    <ModelMatchRule CallsignPrefix="GA3J" TypeCode="CRJ2" ModelName="AIGAIM_Stewart-Haas Racing Bombardier CRJ-200 - LR N141SH" />
+    <ModelMatchRule CallsignPrefix="UALX" TypeCode="CRJ2" ModelName="AIGAIM_United Express Bombardier CRJ-200 - OC opb Air Wisconsin" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_Modular Devices Beechcraft Premier IA - N390GM" />
+    <ModelMatchRule CallsignPrefix="GA2J" TypeCode="" ModelName="AIGAIM_NASCAR Private Jets Racing Beechcraft Premier IA - N6JR Roush Fenway" />
+    <ModelMatchRule CallsignPrefix="RJAC" TypeCode="A310" ModelName="AIGAIM_Royal Jordanian Cargo Airbus A310-300F" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A20N" ModelName="FSLTL_A20N_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A21N" ModelName="FSLTL_A21N_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A319" ModelName="FSLTL_A319_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A320" ModelName="FSLTL_A320_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="VOZX" TypeCode="A320" ModelName="FSLTL_A320_IAE_Virgin Australia Regional" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A321" ModelName="FSLTL_A321_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A332" ModelName="FSLTL_A332_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A332" ModelName="FSLTL_A332F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A333" ModelName="FSLTL_A333_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A333" ModelName="FSLTL_A333F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A359" ModelName="FSLTL_A359_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="A388" ModelName="FSLTL_A388_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="XXXX" TypeCode="AN24" ModelName="FSLTL_UAI_AN24_XXXX" />
+    <ModelMatchRule CallsignPrefix="XXXX" TypeCode="AN26" ModelName="FSLTL_UAI_AN26_XXXX" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_B350_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_C152_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_C172_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_C25C_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_C25C_M-MIKE" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_C25C_PS-CSF" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_DA40-NG_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_DA62_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_DA62_Sapphire_Blue" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_DA62_Sapphire_Gold" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_DR400_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_BE36_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_TBM9_ZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_TBM9_N960DH" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_TBM9_N960VM" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="" ModelName="FSLTL_GA_VL3_ZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="AT75" ModelName="FSLTL_AT75_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="AT75" ModelName="FSLTL_AT75F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="IBEX" TypeCode="AT75" ModelName="FSLTL_OSP_AT75_Iberia Regional" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="AT76" ModelName="FSLTL_AT76_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="IBEX" TypeCode="AT76" ModelName="FSLTL_OSP_AT76_Iberia Regional" />
+    <ModelMatchRule CallsignPrefix="JALX" TypeCode="AT76" ModelName="FSLTL_OSP_AT76_Japan Air Commuter" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B737" ModelName="FSLTL_B737_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B737" ModelName="FSLTL_B737F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B738" ModelName="FSLTL_B738_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B738" ModelName="FSLTL_B738F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B739" ModelName="FSLTL_B739_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="" ModelName="FSLTL_B73X_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B744" ModelName="FSLTL_B744F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="YZRC" TypeCode="B744" ModelName="FSLTL_FAIB_B744_Suparna Airlines Cargo" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B748" ModelName="FSLTL_B748_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B748" ModelName="FSLTL_B748F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B763" ModelName="FSLTL_B763_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B763" ModelName="FSLTL_B763F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B772" ModelName="FSLTL_B772_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B77L" ModelName="FSLTL_B77L_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B77L" ModelName="FSLTL_B77LF_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B77W" ModelName="FSLTL_B77W_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="B789" ModelName="FSLTL_B789_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="BCS3" ModelName="FSLTL_BCS3_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="CRJ7" ModelName="FSLTL_CRJ7_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="DH8C" ModelName="FSLTL_DH8C_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="DH8D" ModelName="FSLTL_DH8D_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ASAX" TypeCode="DH8D" ModelName="FSLTL_DH8D_Alaska Airlines" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="E170" ModelName="FSLTL_E170_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="E190" ModelName="FSLTL_E190_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="E195" ModelName="FSLTL_E195" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="E290" ModelName="FSLTL_E290" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="E295" ModelName="FSLTL_E295" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="E75L" ModelName="FSLTL_E75L" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="E75S" ModelName="FSLTL_E75S" />
+    <ModelMatchRule CallsignPrefix="XXXX" TypeCode="L410" ModelName="FSLTL_L-410T_XXXX" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="L410" ModelName="FSLTL_UAI_L-410_SiLA RA-67059" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="" ModelName="FSLTL_GA_HTAI_LJ25_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="MD11" ModelName="FSLTL_MD11F_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="" TypeCode="SU95" ModelName="FSLTL_SSJ100-95_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="" ModelName="" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="IL76" ModelName="FSLTL_UAI_Il76_ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="" ModelName="FSLTL_UAI_Tu-214 ZZZZ" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="" ModelName="" />
+    <ModelMatchRule CallsignPrefix="ZZZZ" TypeCode="" ModelName="" />
+</ModelMatchRuleSet>

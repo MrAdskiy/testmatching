@@ -1,0 +1,6 @@
+D:\Projects\lessons\testmatching\bin\Debug\testmatching.exe
+D:\Projects\lessons\testmatching\bin\Debug\testmatching.pdb
+D:\Projects\lessons\testmatching\obj\Debug\testmatching.csproj.AssemblyReference.cache
+D:\Projects\lessons\testmatching\obj\Debug\testmatching.csproj.CoreCompileInputs.cache
+D:\Projects\lessons\testmatching\obj\Debug\testmatching.exe
+D:\Projects\lessons\testmatching\obj\Debug\testmatching.pdb
