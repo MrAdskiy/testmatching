@@ -28,7 +28,8 @@ namespace testmatching
                 line = line.Split(';')[0].Trim();
             return line;
         }
-        public static Airplane[] GetInfo(string path)
+        
+        public static List<Airplane> GetInfo(string path)
         {
             var listOfPlanes = new List<Airplane>() ;
             Airplane airplane = null;
@@ -67,9 +68,10 @@ namespace testmatching
             catch (Exception)
             {
                 Console.WriteLine("Ошибка чтения файла");
-                throw;
+                Console.ReadKey();
+                Environment.Exit(4);
             }
-            return listOfPlanes.ToArray();
+            return listOfPlanes;
         }
 
         public static void PrintToFile(List<Airplane> array, string path)
@@ -84,7 +86,7 @@ namespace testmatching
             }
         }
 
-        public static List<Airplane> Sort(List<Airplane> list)
+        public static List<Airplane> Merge(List<Airplane> list)
         {
             for (int i = 0; i < list.Count; i++)
             {

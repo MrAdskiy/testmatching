@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace testmatching
 {
@@ -27,15 +28,16 @@ namespace testmatching
                 {
                     Console.WriteLine("Ошибка чтения файла");
                     Console.ReadKey();
+                    Environment.Exit(2);
                 }
             }
             
             // string pathIn = @"H:\games\msfs\Community\fsltl-traffic-base\SimObjects\Airplanes";
             string pathTemplates = @".\templates.cfg";
-            string pathOutCorrect = @".\out_correct.txt";
-            string pathOutIncorrect = @".\out_incorrect.txt";
-            string pathToUnknown = @".\out_unknown.txt";
-            string pathToVMR = @".\ModelMatching.vmr";
+            string pathOutCorrect = $@".\out_correct_{DateTime.Now.ToString().Split(' ')[0].Replace('.', '_')}.txt";
+            string pathOutIncorrect = $@".\out_incorrect_{DateTime.Now.ToString().Split(' ')[0].Replace('.', '_')}.txt";
+            string pathToUnknown = $@".\out_unknown_{DateTime.Now.ToString().Split(' ')[0].Replace('.', '_')}.txt";
+            string pathToVMR = $@".\ModelMatching_{DateTime.Now.ToString().Split(' ')[0].Replace('.', '_')}.vmr";
             
             //Поиск всех файлов aircrfat.cfg по указанному пути во всех директориях
 
@@ -45,25 +47,19 @@ namespace testmatching
                 aircraftCfgFiles = Directory.GetFiles(pathIn, "aircraft.cfg", SearchOption.AllDirectories);
                 Console.WriteLine("Поиск файлов aircraft.cfg по пути: " + pathIn);
                 if (aircraftCfgFiles.Length <= 0)
-                {
                     Console.WriteLine("Файлов aircraft.cfg по пути: " + pathIn + " не найдено");
-                }
             }
             catch (Exception)
             {
                 Console.WriteLine("Неверный путь");
                 Console.ReadKey();
+                Environment.Exit(3);
             }
 
-            // Составляем список всех найденный ливрей
+            // Составляем список всех найденный ливрей и добавляем тип по маске
             var listOfAllLiveries = new List<Airplane>();
-            for (int i = 0; i < aircraftCfgFiles.Length; i++)
-            {
-                listOfAllLiveries.AddRange(Airplane.GetInfo(aircraftCfgFiles[i]));
-            }
-            
-            // Проверяем ливреи наа совпадение с типом самолёта и добавляем тип в список всех ливрей
-            listOfAllLiveries = Airplane.AddType(listOfAllLiveries, Template.GetTemplates(pathTemplates));
+            foreach (var el in aircraftCfgFiles)
+                listOfAllLiveries.AddRange(Airplane.AddType(Airplane.GetInfo(el), Template.GetTemplates(pathTemplates)));
             
             // Сортировка корректных и некорректных и правил
             var listOfCorrectMatches = new List<Airplane>();
@@ -79,7 +75,7 @@ namespace testmatching
             
             
             //Сортировка по одинаковому префиксу и типу
-            listOfCorrectMatches = Airplane.Sort(listOfCorrectMatches);
+            listOfCorrectMatches = Airplane.Merge(listOfCorrectMatches);
             
             //Составление списков и вывод результатов
             Airplane.PrintToFile (listOfCorrectMatches, pathOutCorrect);
