@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
-using System.Runtime.InteropServices;
 
 namespace testmatching
 {
@@ -54,10 +53,7 @@ namespace testmatching
             {
                 Console.WriteLine("Неверный путь");
                 Console.ReadKey();
-                throw;
             }
-            
-            
 
             // Составляем список всех найденный ливрей
             var listOfAllLiveries = new List<Airplane>();
