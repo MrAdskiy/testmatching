@@ -1,2 +1,4 @@
 ﻿/obj/
 /.idea/
+/Debug/*.txt
+/Debug/*.pdb
