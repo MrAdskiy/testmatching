@@ -48,6 +48,20 @@
     <ItemGroup>
       <PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
     </ItemGroup>
+    <ItemGroup>
+<<<<<<< HEAD
+      <Content Include=".gitignore" />
+=======
+>>>>>>> origin/main
+      <Content Include="bin\Debug\config.cfg" />
+      <Content Include="bin\Debug\templates.cfg" />
+      <Content Include="bin\Debug\testmatching.exe" />
+      <Content Include="bin\Debug\testmatching.pdb" />
+<<<<<<< HEAD
+      <Content Include="README.md" />
+=======
+>>>>>>> origin/main
+    </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.

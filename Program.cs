@@ -32,7 +32,6 @@ namespace testmatching
                 }
             }
             
-            // string pathIn = @"H:\games\msfs\Community\fsltl-traffic-base\SimObjects\Airplanes";
             string pathTemplates = @".\templates.cfg";
             string pathOutCorrect = $@".\out_correct_{DateTime.Now.ToString().Split(' ')[0].Replace('.', '_')}.txt";
             string pathOutIncorrect = $@".\out_incorrect_{DateTime.Now.ToString().Split(' ')[0].Replace('.', '_')}.txt";
