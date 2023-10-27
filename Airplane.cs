@@ -43,22 +43,22 @@ namespace testmatching
                 
                     while ((line = sr.ReadLine()) != null)
                     {
-                        if (line.ToLower().Contains("fltsim."))
+                        if (line.ToLower().Contains("[fltsim.") && !line.Contains(";"))
                         {
                             airplane = new Airplane();
                             listOfPlanes.Add(airplane);
                         } 
-                        else if (line.Contains("title") && (line.Contains("=") && airplane == null))
+                        else if (line.ToLower().Contains("title") && (line.Contains("=") && airplane == null))
                         {
                             airplane = new Airplane();
                             listOfPlanes.Add(airplane);
                             airplane.modelName = GetValue(line);
                         }
-                        else if (line.Contains("title") && (line.Contains("=") && airplane != null))
+                        else if (line.ToLower().Contains("title") && (line.Contains("=") && airplane != null))
                         {
                             airplane.modelName = GetValue(line);
                         }
-                        else if (line.Contains("icao_airline"))
+                        else if (line.ToLower().Contains("icao_airline"))
                         {
                             airplane.callsignPrefix = GetValue(line);
                         }
