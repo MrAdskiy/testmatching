@@ -1,20 +1,19 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
 
 namespace testmatching
 {
-    public class Template
+    public struct Template
     {
         public Template(string type, string template)
         {
             this.type = type;
-            this.template = new Regex(template);
+            this.template = template;
         }
         
         public string type;
-        public Regex template;
+        public string template;
         
         public static List<Template> GetTemplates (string path)
         {
@@ -26,7 +25,8 @@ namespace testmatching
                 {
                     if (line != string.Empty)
                     {
-                        var element = new Template((line.Split(';')[0]), (line.Split(';')[1].ToLower()));
+                        var splitLines = line.Split(';');
+                        var element = new Template((splitLines[0]), (splitLines[1]));
                         listOfTemplates.Add(element);
                     }
                 }
