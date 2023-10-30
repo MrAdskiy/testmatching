@@ -2,6 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 
 
 namespace testmatching
@@ -43,22 +44,22 @@ namespace testmatching
                 
                     while ((line = sr.ReadLine()) != null)
                     {
-                        if (line.ToLower().Contains("[fltsim.") && !line.Contains(";"))
+                        var lineToLower = line.ToLower();
+                        if (lineToLower.Contains("[fltsim.") && !lineToLower.Contains(";"))
                         {
                             airplane = new Airplane();
                             listOfPlanes.Add(airplane);
                         } 
-                        else if (line.ToLower().Contains("title") && (line.Contains("=") && airplane == null))
+                        else if (lineToLower.Trim().StartsWith("title") && lineToLower.Contains("="))
                         {
-                            airplane = new Airplane();
-                            listOfPlanes.Add(airplane);
+                            if (airplane == null)
+                            {
+                                airplane = new Airplane();
+                                listOfPlanes.Add(airplane);
+                            }
                             airplane.modelName = GetValue(line);
                         }
-                        else if (line.ToLower().Contains("title") && (line.Contains("=") && airplane != null))
-                        {
-                            airplane.modelName = GetValue(line);
-                        }
-                        else if (line.ToLower().Contains("icao_airline"))
+                        else if (lineToLower.Trim().StartsWith("icao_airline"))
                         {
                             airplane.callsignPrefix = GetValue(line);
                         }
@@ -104,16 +105,20 @@ namespace testmatching
 
         public static List<Airplane> AddType(List<Airplane> listOfLiveries, List<Template> templates)
         {
-            foreach (var el in listOfLiveries)
-                foreach (var template in templates)
+            Parallel.ForEach(
+                listOfLiveries,
+                el =>
                 {
-                    Regex rg = new Regex(template.template.ToLower());
-                    if (rg.IsMatch(el.modelName.ToLower()))
+                    var elToLower = el.modelName.ToLower();
+                    foreach (var template in templates)
                     {
-                        el.typeCode = template.type.ToUpper();
-                        break;
+                        if (template.template.IsMatch(elToLower))
+                        {
+                            el.typeCode = template.type.ToUpper();
+                            break;
+                        }
                     }
-                }
+                });
             return listOfLiveries;
         }
     }
