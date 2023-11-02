@@ -49,7 +49,7 @@ namespace testmatching
                             airplane = new Airplane();
                             listOfPlanes.Add(airplane);
                         } 
-                        else if (lineToLower.Trim().StartsWith("title") && lineToLower.Contains("="))
+                        else if (lineToLower.Trim().StartsWith("title") && lineToLower.Contains("=") && !lineToLower.Contains("&"))
                         {
                             if (airplane == null)
                             {
